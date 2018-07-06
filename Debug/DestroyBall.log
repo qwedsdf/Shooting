@@ -1,0 +1,21 @@
+﻿2018/07/06 22:16:12 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\DELL\Desktop\Aiming様提出用\モノビット様用\饒波光規\ポートフォリオ\シューティング\プロジェクト\DestroyBall.vcxproj" (Build ターゲット)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"D:\DxLib_VC\プロジェクトに追加すべきファイル_VC用" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt player.cpp
+         player.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\DELL\Desktop\Aiming様提出用\モノビット様用\饒波光規\ポートフォリオ\シューティング\プロジェクト\Debug\DestroyBall.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\DxLib_VC\プロジェクトに追加すべきファイル_VC用" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\DELL\Desktop\Aiming様提出用\モノビット様用\饒波光規\ポートフォリオ\シューティング\プロジェクト\Debug\DestroyBall.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\DELL\Desktop\Aiming様提出用\モノビット様用\饒波光規\ポートフォリオ\シューティング\プロジェクト\Debug\DestroyBall.lib" /MACHINE:X86 Debug\bullet.obj
+         Debug\Circle.obj
+         Debug\date.obj
+         Debug\Flow.obj
+         Debug\FlowGame.obj
+         Debug\KEY.obj
+         Debug\main.obj
+         Debug\player.obj
+         Debug\title.obj
+         DestroyBall.vcxproj -> C:\Users\DELL\Desktop\Aiming様提出用\モノビット様用\饒波光規\ポートフォリオ\シューティング\プロジェクト\Debug\DestroyBall.exe
+     1>プロジェクト "C:\Users\DELL\Desktop\Aiming様提出用\モノビット様用\饒波光規\ポートフォリオ\シューティング\プロジェクト\DestroyBall.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:01.52
